@@ -1,9 +1,9 @@
 <?php
 
 // konfigurasi database
-$host = "localhost";
-$user = "root";
-$pass = "kopi";
+$host = "dbsosmedia.cjorhe5jzkni.us-east-2.rds.amazonaws.com";
+$user = "admin";
+$pass = "farman17";
 $db = "praktikumblog";
 
 // melakukan koneksi ke db
