@@ -2,12 +2,12 @@
     <div class="row">
         <div class="col-md-6">
             <h4><b>Kontak Saya</b></h4>
-            <p>Jl. Ismail Marzuki No. 02 Mataram</p>
-            <p>Telepon, WA: <tel>087866866694</tel>,<br> Email: <b>ardianta_pargo@yahoo.co.id</b></p>
+            <p>Jl.Galur No.68 Kel.Kukusan Kec.Beji, Kota Depok- Jawa Barat</p>
+            <p>Telepon, WA: <tel>08568225347</tel>,<br> Email: <b>ahmadfarman1701@yahoo.com</b></p>
             <br><br>
         </div>
         <div class="col-md-6">
-            <h4><b>Twitter @ArdiantaPargo</b></h4>
+            <h4><b>Twitter @AhmadFarman</b></h4>
             <div>
                 <p class="fa fa-lg fa-twitter" style="float: left; margin: 5px 10px"></p> <p>Sedang belajar membuat blog dengan #php dan #mysql. Ternyata mudah sekali!</p>
 
